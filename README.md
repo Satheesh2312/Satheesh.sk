@@ -1,4 +1,6 @@
-# Satheesh.sk
+# Machine Learning Algorithms
+
 Hi all!
 
-Satheesh here, I like python and networking 
+Here I posted the some of the Machine Learning Algorithms which is  I used to practice myself
+
